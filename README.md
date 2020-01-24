@@ -37,11 +37,17 @@ Finally, you must edit the file `appsettings.json` which is inside the folder` P
 ## Cool Links
 
 Web API: (about how to create and how to use migrations)
+
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
+
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-1
+
 https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-3
+
 https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding
+
 https://code-maze.com/migrations-and-seed-data-efcore/
 
 
