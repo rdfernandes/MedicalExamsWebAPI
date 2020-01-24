@@ -1,7 +1,7 @@
 # MedicalExamsWebAPI
 
 
-# Description
+## Description
 
 ### This Web API was developed in ASP.NET Core 3.1.
 
@@ -15,21 +15,21 @@ This Web API complements an application that was developed in WPF APP .NetCore 3
 
 
 
-# DEMO
+## DEMO
 
 You can test the application using the files inside the `Publish` folder.
 After downloading to your machine, you need to do the next steps:
 
-# - First Step: Prepare the content
+### - First Step: Prepare the content
 You should download the `Publish` folder and place it at your "final destination".
 
-# - Second Step: Define the IIS connection with the project folder
+### - Second Step: Define the IIS connection with the project folder
 Here you must create an application pool in IIS and point to the project folder.
 
-# - Third Step: Create the Database on SQL Server using SQL Script
+### - Third Step: Create the Database on SQL Server using SQL Script
 Now you must open your SQL Server to create the Database. Here the process will be simple, just open the program, and execute the query through the file `QUERY_TO_RUN_ON_DB.sql` which is inside the folder `Publish`. 
 
-# - Fourth step: Update Database Address on `appsettings.json`
+### - Fourth step: Update Database Address on `appsettings.json`
 Finally, you must edit the file `appsettings.json` which is inside the folder` Publish` (project folder) and where `Server` is located, you must put the address of your database that you created in SQL Server.
 
 
